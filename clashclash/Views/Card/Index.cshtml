@@ -1,0 +1,76 @@
+﻿@model List<clashclash.Models.CardModel>
+
+<h2>Cartas :)</h2>
+<input type="text" id="searchInput" placeholder="Pesquise" class="barraPesquisa">
+
+<table id="cardTable">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Id</th>
+            <th>Nível Máximo</th>
+            <th>Nível Máximo de Evolução</th>
+            <th>Custo de Elixir</th>
+            <th>Raridade</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td><p>@item.Name</p></td>
+                    <td><p>@item.Id</p></td>
+                    <td><p>@item.MaxLevel</p></td>
+                    <td><p>@item.MaxEvolutionLevel</p></td>
+                    <td><p>@item.ElixirCost</p></td>
+                    <td><p>@item.Rarity</p></td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="7">Nenhum card cadastrado</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    var tableBody = $('#cardTable tbody');
+    tableBody.empty();
+    $(document).ready(function () {
+        $('#searchInput').on('keyup', function () {
+            tableBody.empty();
+            var query = $(this).val();
+
+            $.ajax({
+                url: '@Url.Action("Search", "Card")',
+                type: 'GET',
+                data: { query: query },
+                success: function (data) {
+
+                    if (data.length > 0) {
+                        $.each(data, function (index, item) {
+                            var row = `<tr>
+                                <td><p>${item.name}</p></td>
+                                <td><p>${item.id}</p></td>
+                                <td><p>${item.maxLevel}</p></td>
+                                <td><p>${item.maxEvolutionLevel}</p></td>
+                                <td><p>${item.elixirCost}</p></td>
+                                <td><p>${item.rarity}</p></td>
+                            </tr>`;
+                            tableBody.append(row);
+                        });
+                    } else {
+                        tableBody.append('<tr><td colspan="7">Nenhum card cadastrado</td></tr>');
+                    }
+                }
+            });
+        });
+    });
+</script>
