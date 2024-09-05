@@ -1,22 +1,122 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-image: url(../../images/Captura\ de\ tela\ 2024-09-05\ 100934.png);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: auto;
 }
+
+@import url('https://fonts.googleapis.com/css2?Roboto&display=swap');
+
+h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: wheat;
+    text-shadow: 10px 10px 10px black;
+    filter: blur(0.2px);
+    animation: show 2s linear;
+    transition: all 200ms linear;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: 700;
+    color: wheat;
+    text-shadow: 10px 10px 10px black;
+    filter: blur(0.2px);
+    animation: show 2s linear;
+    transition: all 200ms linear;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.BtnDiv {
+    height: 100%;
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#ButtonDaily {
+    cursor: pointer;
+    border: solid rgb(0, 0, 0);
+    font-family: "system-ui";
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    padding: 28px 30px;
+    transition: 2s;
+    width: 150px;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 50px;
+    background: rgb(0, 102, 204);
+    --hover-borderSize: 0px;
+    font-weight: 700;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    height: 50px;
+}
+
+    #ButtonDaily:hover {
+        color: rgb(255, 255, 255);
+        background: rgb(0, 102, 204) none repeat scroll 0% 0% / auto padding-box border-box;
+        border-color: rgb(204, 0, 105);
+        border-width: 0px;
+        border-style: solid;
+    }
+
+#ButtonUnlimited {
+    cursor: pointer;
+    border: solid rgb(0, 0, 0);
+    font-family: "system-ui";
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    padding: 28px 30px;
+    transition: 2s;
+    width: 150px;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 50px;
+    background: rgb(0, 102, 204);
+    --hover-borderSize: 0px;
+    font-weight: 700;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    height: 50px;
+}
+
+    #ButtonUnlimited:hover {
+        color: rgb(255, 255, 255);
+        background: rgb(0, 102, 204) none repeat scroll 0% 0% / auto padding-box border-box;
+        border-color: rgb(204, 0, 105);
+        border-width: 0px;
+        border-style: solid;
+    }
