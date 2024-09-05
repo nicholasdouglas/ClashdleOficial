@@ -17,9 +17,9 @@
                 <tr>
                     <td><a id="selectCard">@item.Name</a></td>
                     <td><p id="stats">@item.Id</p></td>
-                    <td><p id="stats">@item.MaxLevel</p></td>
-                    <td><p id="stats">@item.MaxEvolutionLevel</p></td>
-                    <td><p id="stats">@item.ElixirCost</p></td>
+                    <td><p id="stats">@item.maxlevel</p></td>
+                    <td><p id="stats">@item.maxevolutionlevel</p></td>
+                    <td><p id="stats">@item.elixircost</p></td>
                     <td><p id="stats">@item.Rarity</p></td>
                 </tr>
             }
@@ -63,7 +63,7 @@
                                     </tr>
                                 </thead>
                                 <tr>
-                                                    <td><button class="selectCard" data-name="${item.name}" data-id="${item.id}" data-maxLevel="${item.maxLevel}" data-maxEvolutionLevel="${item.maxEvolutionLevel}" data-elixirCost="${item.elixirCost}" data-rarity="${item.rarity}" >${item.name}</button></td>
+                                                    <td><button class="selectCard" data-name="${item.name}" data-id="${item.id}" data-maxlevel="${item.maxlevel}" data-maxevolutionlevel="${item.maxevolutionlevel}" data-elixircost="${item.elixircost}" data-rarity="${item.rarity}" >${item.name}</button></td>
                             </tr>`;
                             tableBody.append(row);
                         });
@@ -78,11 +78,11 @@
         {
             tableBody.empty();
             var card = $(this);
-            var cardId = card.data('id')
+            var cardId = card.data('id');
             var cardName = card.data('name');
-            var cardML = card.data('maxLevel');
-            var cardMEL = card.data('maxEvolutionLevel');
-            var cardElixirCost = card.data('elixirCost');
+            var cardML = card.data('maxlevel');
+            var cardMEL = card.data('maxevolutionlevel');
+            var cardElixirCost = card.data('elixircost');
             var cardRarity = card.data('rarity');
             console.log('Nome da carta selecionada: ' + cardName);
             var codigo = `
@@ -98,7 +98,7 @@
                                         </tr>
                                     </thead>
                                     <tr>
-                                    <td><a>${cardName}</a></td>
+                                    <td><p>${cardName}</p></td>
                                     <td><p>${cardId}</p></td>
                                     <td><p>${cardML}</p></td>
                                     <td><p>${cardMEL}</p></td>
