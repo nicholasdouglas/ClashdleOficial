@@ -1,12 +1,13 @@
 ﻿using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using clashclash.Models;
+using Microsoft.AspNetCore.Cors.Infrastructure;
 
 namespace clashclash.Controllers
 {
     public class CardController : Controller
     {
-   private static List<CardModel> _cards = new List<CardModel>
+    private static List<CardModel> _cards = new List<CardModel>
         {
         new CardModel
         {
@@ -1196,8 +1197,21 @@ namespace clashclash.Controllers
             {
                 cards = cards.Where(c => c.Name.Contains(query, StringComparison.OrdinalIgnoreCase)).ToList();
             }
-
             return Json(cards);
         }
+
+        [HttpGet]
+        public IActionResult GetCardById(int id)
+        {
+            var card = _cards.FirstOrDefault(c => c.Id == id);
+            if (card == null)
+            {
+                return NotFound(); // Retorna 404 se o cartão não for encontrado
+            }
+
+            return Json(card);
+        }
+
+
     }
 }

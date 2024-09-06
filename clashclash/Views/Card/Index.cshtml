@@ -10,6 +10,7 @@
         </tr>
     </thead>
     <tbody>
+            
         @if (Model != null && Model.Any())
         {
             foreach (var item in Model)
@@ -39,10 +40,32 @@
     var tableBody = $('#cardTable tbody');
     var dados = $('#stats');
 
+    var correctId;
+    var correctML;
+    var correctMEL;
+    var correctEC;
+
     dados.empty();
     tableBody.empty();
 
     $(document).ready(function () {
+        function carregarCardPorId(id) {
+            $.ajax({
+                url: '@Url.Action("GetCardById", "Card")', // Assumindo que você tem uma ação para buscar o card pelo ID
+                type: 'GET',
+                data: { id: id },
+                success: function (data) {
+                    correctId = data.id;
+                    correctML = data.maxlevel;
+                    correctMEL = data.maxevolutionlevel;
+                    correctEC = data.elixircost;
+
+                    console.log(data.name);
+                }
+            });
+        }
+        var cardToday = carregarCardPorId(26000000);
+
         $('#searchInput').on('keyup', function () {
             tableBody.empty();
             var query = $(this).val();
@@ -89,7 +112,6 @@
                                     <thead>
                                         <tr>
                                             <th>Nome</th>
-                                            <th>Id</th>
                                             <th>Nível Máximo</th>
                                             <th>Nível Máximo de Evolução</th>
                                             <th>Custo de Elixir</th>
@@ -99,13 +121,30 @@
                                     </thead>
                                     <tr>
                                     <td><p>${cardName}</p></td>
-                                    <td><p>${cardId}</p></td>
                                     <td><p>${cardML}</p></td>
                                     <td><p>${cardMEL}</p></td>
                                     <td><p>${cardElixirCost}</p></td>
                                     <td><p>${cardRarity}</p></td>
                                 </tr>`;
             tableBody.append(codigo);
+
+            if (cardId == correctId) 
+            {
+                console.log("poggers");
+                
+            }
+            if (cardML == correctML) {
+                console.log("ml correto");
+
+            }
+            if (cardElixirCost == correctEC) {
+                console.log("ec correto");
+
+            }
+            if (cardMEL == correctMEL) {
+                console.log("mel correto");
+
+            }
         });
     });
 </script>
