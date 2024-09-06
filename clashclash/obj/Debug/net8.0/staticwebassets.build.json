@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "CV80rT9tC1spck+EEhRrD6oqDoiAptbrQNK90Fm5j6k=",
+=======
+  "Hash": "5thD3fyMKAwjhOswUCwGkgKVzqZQMJwJs7ZLy6HAMnU=",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
   "Source": "clashclash",
   "BasePath": "_content/clashclash",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "clashclash\\wwwroot",
       "Source": "clashclash",
+<<<<<<< HEAD
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\obj\\Debug\\net8.0\\scopedcss\\bundle\\clashclash.styles.css",
       "SourceId": "clashclash",
       "SourceType": "Computed",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\obj\\Debug\\net8.0\\scopedcss\\bundle\\clashclash.styles.css",
+      "SourceId": "clashclash",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "clashclash.styles.css",
       "AssetKind": "All",
@@ -33,6 +48,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\obj\\Debug\\net8.0\\scopedcss\\bundle\\clashclash.styles.css"
     },
     {
@@ -40,6 +56,15 @@
       "SourceId": "clashclash",
       "SourceType": "Computed",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\obj\\Debug\\net8.0\\scopedcss\\bundle\\clashclash.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\clashclash.bundle.scp.css",
+      "SourceId": "clashclash",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "clashclash.bundle.scp.css",
       "AssetKind": "All",
@@ -52,6 +77,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\clashclash.bundle.scp.css"
     },
     {
@@ -59,6 +85,15 @@
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\clashclash.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\css\\site.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +109,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\favicon.ico",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\favicon.ico",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +135,17 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\js\\site.js",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\js\\site.js",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -112,10 +161,169 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -131,10 +339,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -150,10 +365,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -169,10 +391,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -188,10 +417,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -207,10 +443,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -226,10 +469,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -245,10 +495,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -264,10 +521,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -283,10 +547,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -302,10 +573,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -321,10 +599,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -340,10 +625,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -359,10 +651,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -378,10 +677,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -397,10 +703,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -416,10 +729,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -435,10 +755,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -454,10 +781,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -473,10 +807,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -492,10 +833,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -511,10 +859,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -530,10 +885,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -549,10 +911,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -568,6 +937,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
@@ -724,6 +1094,12 @@
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -739,10 +1115,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -758,10 +1141,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -777,10 +1167,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -796,10 +1193,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -815,10 +1219,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -834,10 +1245,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -853,10 +1271,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -872,10 +1297,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -891,10 +1323,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -910,10 +1349,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -929,10 +1375,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -948,10 +1401,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -967,10 +1427,188 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/jquery/dist/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/jquery/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+      "BasePath": "_content/clashclash",
+      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -986,10 +1624,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1005,10 +1650,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "clashclash",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "clashclash",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\wwwroot\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "BasePath": "_content/clashclash",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

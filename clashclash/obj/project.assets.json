@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\clashclash.csproj",
       "projectName": "clashclash",
       "projectPath": "C:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\clashclash.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\clashclash.csproj",
+      "projectName": "clashclash",
+      "projectPath": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\clashclash.csproj",
+      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\obj\\",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",

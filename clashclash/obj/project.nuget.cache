@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "xJvbuprrCHHxRkUuxLIZKGdLkgREChvrVy3tl9a1YQhj36QMk8LAqIXngzmSNZgGt2v66gf70x4NHvK8BNQp7Q==",
   "success": true,
   "projectFilePath": "c:\\Users\\Aluno\\desktop\\ClashdleOficial\\clashclash\\clashclash.csproj",
+=======
+  "dgSpecHash": "fVBXaL5QQng81y7X8bKDbux9h8CsUBgQ4GTmvUmfMBAW77gatpVifQ/nOEAvRDZXU6T82I7oizHNP6E8TEiDhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\clashclash.csproj",
+>>>>>>> 2ad7b5efcafacfb1e5f8413a7f49bfcc4abb770f
   "expectedPackageFiles": [],
   "logs": []
 }

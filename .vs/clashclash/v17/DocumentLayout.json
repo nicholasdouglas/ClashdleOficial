@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\romeu\\source\\repos\\ClashdleOficial\\",
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D94A6BE0-68AD-4184-983F-121958DB062C}|clashclash\\clashclash.csproj|c:\\users\\romeu\\source\\repos\\clashdleoficial\\clashclash\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D94A6BE0-68AD-4184-983F-121958DB062C}|clashclash\\clashclash.csproj|solutionrelative:clashclash\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{D94A6BE0-68AD-4184-983F-121958DB062C}|clashclash\\clashclash.csproj|c:\\users\\aluno\\source\\repos\\clashdleoficial\\clashclash\\views\\card\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D94A6BE0-68AD-4184-983F-121958DB062C}|clashclash\\clashclash.csproj|solutionrelative:clashclash\\views\\card\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D94A6BE0-68AD-4184-983F-121958DB062C}|clashclash\\clashclash.csproj|c:\\users\\romeu\\source\\repos\\clashdleoficial\\clashclash\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D94A6BE0-68AD-4184-983F-121958DB062C}|clashclash\\clashclash.csproj|solutionrelative:clashclash\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D94A6BE0-68AD-4184-983F-121958DB062C}|clashclash\\clashclash.csproj|c:\\users\\aluno\\source\\repos\\clashdleoficial\\clashclash\\models\\cardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94A6BE0-68AD-4184-983F-121958DB062C}|clashclash\\clashclash.csproj|solutionrelative:clashclash\\models\\cardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94A6BE0-68AD-4184-983F-121958DB062C}|clashclash\\clashclash.csproj|c:\\users\\aluno\\source\\repos\\clashdleoficial\\clashclash\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94A6BE0-68AD-4184-983F-121958DB062C}|clashclash\\clashclash.csproj|solutionrelative:clashclash\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\romeu\\source\\repos\\ClashdleOficial\\clashclash\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "clashclash\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\romeu\\source\\repos\\ClashdleOficial\\clashclash\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "clashclash\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAqwHoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-05T23:01:49.99Z",
+              "DocumentIndex": 2,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "clashclash\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\Controllers\\CardController.cs",
+              "RelativeToolTip": "clashclash\\Controllers\\CardController.cs",
+              "ViewState": "AQIAAKAEAAAAAAAAAAAswLoEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:43:45.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CardModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\Models\\CardModel.cs",
+              "RelativeDocumentMoniker": "clashclash\\Models\\CardModel.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\Models\\CardModel.cs",
+              "RelativeToolTip": "clashclash\\Models\\CardModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:27:39.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\romeu\\source\\repos\\ClashdleOficial\\clashclash\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "clashclash\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\romeu\\source\\repos\\ClashdleOficial\\clashclash\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "clashclash\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\Views\\Card\\Index.cshtml",
+              "RelativeDocumentMoniker": "clashclash\\Views\\Card\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Source\\Repos\\ClashdleOficial\\clashclash\\Views\\Card\\Index.cshtml",
+              "RelativeToolTip": "clashclash\\Views\\Card\\Index.cshtml",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAwwI8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T23:01:30.119Z",
+              "WhenOpened": "2024-09-06T10:27:12.966Z",
               "EditorCaption": ""
             }
           ]
